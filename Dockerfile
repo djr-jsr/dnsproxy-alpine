@@ -14,7 +14,7 @@ RUN apk --update upgrade && \
 #
 
 COPY named.conf /etc/bind/
-VOLUME ["/etc/bind", "/var/log/named"]
+VOLUME ["/etc/bind", "/var/bind"]
 
 EXPOSE 53/udp
 EXPOSE 53/tcp
