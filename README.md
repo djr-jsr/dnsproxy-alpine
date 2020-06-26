@@ -1,5 +1,3 @@
-# dnsproxy-alpine
-
 # BIND Container
 
 [![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/djroy/bind-alpine?style=for-the-badge)](https://hub.docker.com/r/djroy/bind-alpine/)
